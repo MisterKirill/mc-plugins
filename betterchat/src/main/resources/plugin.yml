@@ -1,4 +1,4 @@
 name: betterchat
-main: com.myst.BetterChat
+main: com.myst.Plugin
 version: 1.0
 api-version: 1.15
