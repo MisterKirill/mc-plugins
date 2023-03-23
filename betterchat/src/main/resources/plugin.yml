@@ -1,0 +1,4 @@
+name: betterchat
+main: com.myst.BetterChat
+version: 1.0
+api-version: 1.15
